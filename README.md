@@ -2,10 +2,6 @@
 An ESLint Rule for Improved Import Grouping
 
 
-An ESLint rule suggestion for grouping React imports
-
-
-
 📏 ESLint is an excellent tool for managing code style and controlling code flow.
 
 
